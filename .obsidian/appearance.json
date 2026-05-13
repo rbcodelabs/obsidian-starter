@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "cssTheme": "Claude Warm",
+  "translucency": false,
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "interfaceFontFamily": "Fira Sans",
+  "enabledCssSnippets": [
+    "tasks"
+  ]
+}

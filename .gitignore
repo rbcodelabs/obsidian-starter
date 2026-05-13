@@ -1,0 +1,27 @@
+# Obsidian workspace state (personal per-user)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.sync-conflict-*.json
+
+# Sync conflicts
+.obsidian/*.sync-conflict-*.json
+
+# AI/search indexes (large, auto-regenerated)
+.obsidian/copilot-index-*.json
+.obsidian/smart-connections/
+
+# Personal bookmarks and starred notes
+.obsidian/starred.json
+.obsidian/bookmarks.json
+
+# Cache and temp
+.obsidian/cache
+.trash/
+
+# macOS
+.DS_Store
+
+# Plugin data that should be configured fresh per-user
+.obsidian/plugins/obsidian-gdocs-sync/data.json
+.obsidian/plugins/linear-integration/data.json
+.obsidian/plugins/claude-threads/data.json
