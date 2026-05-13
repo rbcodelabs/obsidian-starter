@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e0329ef9e967c682",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e84ef603151a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70cc292e3ca9fa08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57010a13814a0db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b20ffcfae26d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f964592dafce7365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2a1f945ccca199b",
+            "type": "leaf",
+            "state": {
+              "type": "claude-threads:chat",
+              "state": {},
+              "icon": "message-square",
+              "title": "Claude Threads"
+            }
+          },
+          {
+            "id": "053f7d7ff6ff84b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f3095137f6f4445",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac2af351d5e0df3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e2b03595265edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a5d0a796bfff2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "38b889ed65ea2464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a32f99a0079e44e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27cc09108a5182d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aeda31663475d364",
+            "type": "leaf",
+            "state": {
+              "type": "claude-threads:agents",
+              "state": {},
+              "icon": "layout-dashboard",
+              "title": "Agent Dashboard"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b50213d7c3b45b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b034d2ee70a03e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "claude-threads:Claude Threads": false,
+      "claude-threads:Agent Dashboard": false,
+      "linear-integration:Sync with Linear": false,
+      "linear-integration:Generate Kanban board": false,
+      "mdx-support:New mdx file": false
+    }
+  },
+  "active": "aeda31663475d364",
+  "lastOpenFiles": []
+}
