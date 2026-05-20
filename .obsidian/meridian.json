@@ -1,0 +1,35 @@
+{
+  "communityPlugins": [
+    "text-extractor",
+    "templater-obsidian",
+    "obsidian-tasks-plugin",
+    "obsidian-system-dark-mode",
+    "obsidian-style-settings",
+    "obsidian-rollover-daily-todos",
+    "obsidian-regex-replace",
+    "obsidian-regex-pipeline",
+    "recent-files-obsidian",
+    "quickadd",
+    "periodic-notes",
+    "omnisearch",
+    "nldates-obsidian",
+    "note-refactor-obsidian",
+    "obsidian-local-images",
+    "markdown-table-editor",
+    "dataview",
+    "obsidian-excel-to-markdown-table",
+    "calendar",
+    "obsidian-auto-link-title",
+    "obsidian-minimal-settings",
+    "smart-connections",
+    "obsidian-custom-frames"
+  ],
+  "githubPlugins": [
+    "rbcodelabs/obsidian-claude-threads",
+    "rbcodelabs/obsidian-vault-bridges",
+    "rbcodelabs/obsidian-gdocs-sync",
+    "rbcodelabs/obsidian-bases-kanban",
+    "rbcodelabs/obsidian-linear-integration-plugin",
+    "ddunnock/mdx-support"
+  ]
+}

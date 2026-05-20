@@ -1,0 +1,10 @@
+{
+  "id": "meridian-bootstrap",
+  "name": "Meridian Bootstrap",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Installs and configures plugins defined in .obsidian/meridian.json on first vault open.",
+  "author": "rbcodelabs",
+  "authorUrl": "https://github.com/rbcodelabs",
+  "isDesktopOnly": true
+}

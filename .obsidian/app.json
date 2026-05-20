@@ -37,5 +37,6 @@
   },
   "mobilePullAction": "command-palette:open",
   "propertiesInDocument": "hidden",
-  "openBehavior": "daily"
+  "openBehavior": "daily",
+  "safeMode": false
 }

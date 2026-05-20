@@ -1,12 +1,19 @@
 {
   "pluginList": [
+    "rbcodelabs/obsidian-claude-threads",
+    "rbcodelabs/obsidian-vault-bridges",
+    "rbcodelabs/obsidian-gdocs-sync",
+    "rbcodelabs/obsidian-bases-kanban",
+    "rbcodelabs/obsidian-linear-integration-plugin",
     "ddunnock/mdx-support"
   ],
   "pluginSubListFrozenVersion": [
-    {
-      "repo": "ddunnock/mdx-support",
-      "version": "latest"
-    }
+    { "repo": "rbcodelabs/obsidian-claude-threads", "version": "latest" },
+    { "repo": "rbcodelabs/obsidian-vault-bridges", "version": "latest" },
+    { "repo": "rbcodelabs/obsidian-gdocs-sync", "version": "latest" },
+    { "repo": "rbcodelabs/obsidian-bases-kanban", "version": "latest" },
+    { "repo": "rbcodelabs/obsidian-linear-integration-plugin", "version": "latest" },
+    { "repo": "ddunnock/mdx-support", "version": "latest" }
   ],
   "themesList": [],
   "updateAtStartup": true,
